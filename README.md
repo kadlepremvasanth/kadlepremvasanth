@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Data Engineer with hands-on experience building real-world data platforms<br><br>I’ve worked extensively with Python, SQL, Apache Spark, and Databricks, designing end-to-end data pipelines that handle real enterprise data at scale. My day-to-day work includes batch and streaming pipelines, complex data transformations, data migrations, and analytics use cases across cloud environments.<br><br><br><br>On the cloud side, I’ve built and supported production systems using Azure Data Factory, Azure Synapse, Azure SQL, and AWS services.
+I’m a Data Engineer with hands-on experience building real-world data platforms<br><br>I’ve worked extensively with Python, SQL, Apache Spark, and Databricks, designing end-to-end data pipelines that handle real enterprise data at scale. My day-to-day work includes batch and streaming pipelines, complex data transformations, data migrations, and analytics use cases across cloud environments.<br><br>On the cloud side, I’ve built and supported production systems using Azure Data Factory, Azure Synapse, Azure SQL, and AWS services.
 
 
 ## 🌐 Socials:
